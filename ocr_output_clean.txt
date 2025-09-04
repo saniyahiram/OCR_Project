@@ -1,0 +1,14 @@
+OCR CLEANED RESULTS
+Image: C:\Users\saniy\OneDrive\Pictures\Screenshots\OCR_Project\screenshots\prescription.jpg
+
+Kept lines (confidence >= 0.50):
+RENOVA  (1.00)
+Dr. Lalitha K  (0.76)
+MD IOBG) MCh (Uro) PGI  (0.55)
+Gold Medalist  (0.76)
+Consultant Urologist & Urogynecologist  (0.72)
+Date  (1.00)
+SPO२ :  (0.99)
+Clinical Notes and Diagnosis  (0.76)
+US५  (0.89)
+LOfCN  (0.69)
